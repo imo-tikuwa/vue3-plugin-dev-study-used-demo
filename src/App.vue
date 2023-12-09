@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { BaseButton } from '@imo-tikuwa/vue3-plugin-dev-study'
+import { BaseButton } from '@imo-tikuwa/vue3-plugin-dev-study'
 </script>
 
 <template>
