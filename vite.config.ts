@@ -6,5 +6,7 @@ export default defineConfig({
   plugins: [vue()],
   server: {
     host: true
-  }
+  },
+  // `vite build`時のassetsのパスについて相対的なパスとするための設定
+  base: ''
 })
